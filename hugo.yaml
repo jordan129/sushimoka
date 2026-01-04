@@ -11,7 +11,7 @@ params:
   addressLocality: "London"
   postalCode: "SW18 1UN"
   addressCountry: "GB"
-  hours: "Monday to Friday: 12:00-15:00 & 17:00-22:00, Saturday: 12:00-22:00, Sunday: 12:00-21:00"
+  hours: "Tuesday to Friday: 12:00-15:00 & 17:00-22:00; Saturday: 12:00-22:00; Sunday: 12:00-21:00"
   social:
     instagram: "https://www.instagram.com/sushimokauk/"
     facebook: "https://www.facebook.com/sushimokauk/"
