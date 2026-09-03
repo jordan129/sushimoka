@@ -114,10 +114,10 @@ announcement:
   id: "xmas-2025"        # change this id for each new campaign
   dismissible: true
   title: "Holiday notice:"
-  message: "Closed on 1st Jan. Reopening 2nd Jan."
+  message: "We will be taking our summer break from August 3 through August 9. We apologize for any inconvenience and appreciate your understanding!"
   # time in RFC3339 with UK timezone offset
-  start: "2026-01-01T00:00:00+00:00"
-  end:   "2026-01-01T23:59:59+00:00"
+  start: "2026-07-04T00:00:00+00:00"
+  end:   "2026-08-09T23:59:59+00:00"
   # optional link
   #link:
   #  label: "View details"
