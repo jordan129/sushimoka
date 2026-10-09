@@ -1,6 +1,7 @@
 food:
   title: "Food Menu"
   pages:
+  - /images/menu/food/winterspecials.jpg
   - /images/menu/food/1.jpg
   - /images/menu/food/2.jpg
   - /images/menu/food/3.jpg
